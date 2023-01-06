@@ -1,0 +1,49 @@
+.mainOne{
+    background-color: rgb(239, 240, 242);
+    border-radius: 10px;
+    margin: 0px 20px;
+   
+    padding-top: 3px;
+    display: flex;
+    align-items: start;
+
+}
+.main{
+    background-color: rgb(239, 240, 242);
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-bottom: 15px;
+
+    padding-top: 3px;
+}
+.card{
+    background-color: lightgray;
+    margin: px;
+    margin-top: 10px;
+}
+
+.item{
+    background-color: white;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+.sec--padding{
+    padding-bottom: 10px;
+    display:flex;
+}
+.title--text{
+font-size:20px ;
+    font-weight: bold;
+}
+
+
+.button--css--remove{
+    padding: 0;
+border: none;
+background: none;
+}
+
+.border{
+    
+    border-radius:10px ;
+}

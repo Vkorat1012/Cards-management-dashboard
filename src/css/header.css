@@ -1,0 +1,27 @@
+.navbar{
+
+    display: flex;
+    margin-left: 0; 
+   
+}
+img {
+   
+    margin-right: 30px;
+}
+
+.date{
+    color: black;
+    text-align: left;
+    font-size: small;
+}
+
+.body--aligned{
+height: 80px;
+    margin-left:15px;
+}
+.right--aligned{
+    margin-right: 10px;
+}
+.trash{
+    font-size: 10rem; color: rgb(255, 0, 0);
+}
